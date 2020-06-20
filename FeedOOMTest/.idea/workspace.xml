@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/execute_script.py" description="# 判断生成报告的文件夹Report是否存在，如果存在删除，否则创建&#10;dirIsExist('Rep..." line="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9f062f4-fa10-4ea6-94ce-72959a3acb28" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FeedOOMTest$Unittests_in_FeedPerformanceCase_py.coverage" NAME="Unittests in FeedPerformanceCase.py Coverage Results" MODIFIED="1552643291456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$max_value_statistic__1_.coverage" NAME="max_value_statistic (1) Coverage Results" MODIFIED="1552531488058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$tetx2.coverage" NAME="tetx2 Coverage Results" MODIFIED="1544955829084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$avgValueStatistic.coverage" NAME="avgValueStatistic Coverage Results" MODIFIED="1552556239762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$test03__1_.coverage" NAME="test03 (1) Coverage Results" MODIFIED="1544346866234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test01" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$ConfigInfo.coverage" NAME="ConfigInfo Coverage Results" MODIFIED="1544336506160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$FeedPerformanceCase.coverage" NAME="FeedPerformanceCase Coverage Results" MODIFIED="1544201137724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$Test01.coverage" NAME="Test01 Coverage Results" MODIFIED="1545136610300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1552468156867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$ExecuteScript.coverage" NAME="ExecuteScript Coverage Results" MODIFIED="1550823174441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$maxValueStatistic.coverage" NAME="maxValueStatistic Coverage Results" MODIFIED="1546866576586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$get_cpu_memory_v3_0.coverage" NAME="get_cpu_memory_v3.0 Coverage Results" MODIFIED="1544351038306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1551003147257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$StatisticsData.coverage" NAME="StatisticsData Coverage Results" MODIFIED="1544693182706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$Unittests_in_test02_py.coverage" NAME="Unittests in test02.py Coverage Results" MODIFIED="1551684139949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$test03.coverage" NAME="test03 Coverage Results" MODIFIED="1547098480334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$max_avg_static.coverage" NAME="max_avg_static Coverage Results" MODIFIED="1553866761929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$highs_lows.coverage" NAME="highs_lows Coverage Results" MODIFIED="1546951324422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$backup.coverage" NAME="backup Coverage Results" MODIFIED="1552637402494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PublicUtils" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$PublicFunctions.coverage" NAME="PublicFunctions Coverage Results" MODIFIED="1544338116021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$execute_script.coverage" NAME="execute_script Coverage Results" MODIFIED="1556546657341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$max_value_statistic.coverage" NAME="max_value_statistic Coverage Results" MODIFIED="1552556333561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PublicUtils" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$statisticReport.coverage" NAME="statisticReport Coverage Results" MODIFIED="1552555863913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$dValueStatistic.coverage" NAME="dValueStatistic Coverage Results" MODIFIED="1546938296329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$avg_value_statistic.coverage" NAME="avg_value_statistic Coverage Results" MODIFIED="1552556355234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PublicUtils" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/execute_script.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+              <folding>
+                <element signature="e#41#82#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/get_cpu_memory_v3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+              <folding>
+                <element signature="e#266#275#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCases/FeedPerformanceCase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#41#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCases/FeedPerformanceCase2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+              <folding>
+                <element signature="e#41#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCases/FeedPerformanceCase3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <folding>
+                <element signature="e#41#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCases/FeedPerformanceCase4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+              <folding>
+                <element signature="e#41#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestCases/FeedPerformanceCase5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConfigInfo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>unittest</find>
+      <find>compareData</find>
+      <find>dirIsExist</find>
+      <find>diff</find>
+      <find>worksheet</find>
+      <find>resultData</find>
+      <find>maxFileNum</find>
+      <find>maxColumnData</find>
+      <find>columnData</find>
+      <find>compareValue</find>
+      <find>avgValue</find>
+      <find>setTitleStyle</find>
+      <find>bodySuccDouStyle</find>
+      <find>result_data</find>
+      <find>avg_value</find>
+      <find>end_columnPoint</find>
+      <find>workBook</find>
+      <find>each_line_stytle</find>
+      <find>path_case</find>
+      <find>ConfigInfo</find>
+      <find>avg_case_avg_data</find>
+      <find>begin_point</find>
+      <find>case</find>
+      <find>print</find>
+      <find>tran_avg_max_data</find>
+      <find>8 * flag_index</find>
+      <find>body_center_style</find>
+      <find>case_lists</find>
+      <find>case.冷启动</find>
+      <find>case: 冷启动</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>avgColumnData</replace>
+      <replace>max_file_num</replace>
+      <replace>max_column_data</replace>
+      <replace>column_data</replace>
+      <replace>compare_result</replace>
+      <replace>avg_value</replace>
+      <replace>set_font_style</replace>
+      <replace>body_succ_dou_style</replace>
+      <replace>result_max_data</replace>
+      <replace>avg_max_value</replace>
+      <replace>end_column_point</replace>
+      <replace>work_book</replace>
+      <replace>each_line_style</replace>
+      <replace>8 * flag_excel</replace>
+      <replace>title_center_style</replace>
+      <replace>cases_list</replace>
+      <replace>case: 冷启动</replace>
+      <replace>Case: 冷启动</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FeedPerformanceCase.py" />
+        <option value="$PROJECT_DIR$/get_cpu_memory_v2.0.py" />
+        <option value="$PROJECT_DIR$/Test01/test03.py" />
+        <option value="$PROJECT_DIR$/Test01/test001.py" />
+        <option value="$PROJECT_DIR$/get_cpu_memory_v3.0.py" />
+        <option value="$PROJECT_DIR$/Data/case1_refresh/SC8_mem_report_2018-12-09-18-23-58.csv" />
+        <option value="$PROJECT_DIR$/TestCases/tetx2.py" />
+        <option value="$PROJECT_DIR$/Data/case1_refresh/SC8_mem_report_2018-12-16-19-20-14.csv" />
+        <option value="$PROJECT_DIR$/dValueStatistic.py" />
+        <option value="$PROJECT_DIR$/StatisticsData.py" />
+        <option value="$PROJECT_DIR$/Data/case2_refresh/time_case1.txt" />
+        <option value="$PROJECT_DIR$/Data/case1_refresh/time_case1.txt" />
+        <option value="$PROJECT_DIR$/Test01.py" />
+        <option value="$PROJECT_DIR$/PublicFunctions.py" />
+        <option value="$PROJECT_DIR$/Data/case3_refresh/time_case2.txt" />
+        <option value="$PROJECT_DIR$/highs_lows.py" />
+        <option value="$PROJECT_DIR$/test03.py" />
+        <option value="$PROJECT_DIR$/diffValueStatistic.py" />
+        <option value="$PROJECT_DIR$/test01.py" />
+        <option value="$PROJECT_DIR$/avgValueStatistic.py" />
+        <option value="$PROJECT_DIR$/maxValueStatistic.py" />
+        <option value="$PROJECT_DIR$/PublicUtils/PublicFunctions.py" />
+        <option value="$PROJECT_DIR$/ExecuteScript.py" />
+        <option value="$PROJECT_DIR$/TestCases/FeedPerformanceCase4.py" />
+        <option value="$PROJECT_DIR$/TestCases/FeedPerformanceCase5.py" />
+        <option value="$PROJECT_DIR$/test02.py" />
+        <option value="$PROJECT_DIR$/max_value_statistic.py" />
+        <option value="$PROJECT_DIR$/statisticReport.py" />
+        <option value="$PROJECT_DIR$/PublicUtils/avg_value_statistic.py" />
+        <option value="$PROJECT_DIR$/PublicUtils/backup.py" />
+        <option value="$PROJECT_DIR$/PublicUtils/public_functions.py" />
+        <option value="$PROJECT_DIR$/backup333.py" />
+        <option value="$PROJECT_DIR$/ConfigInfo.py" />
+        <option value="$PROJECT_DIR$/max_avg_static.py" />
+        <option value="$PROJECT_DIR$/PublicUtils/max_value_statistic.py" />
+        <option value="$PROJECT_DIR$/PublicUtils/diff_value_statistic.py" />
+        <option value="$PROJECT_DIR$/TestCases/FeedPerformanceCase3.py" />
+        <option value="$PROJECT_DIR$/TestCases/FeedPerformanceCase.py" />
+        <option value="$PROJECT_DIR$/TestCases/FeedPerformanceCase2.py" />
+        <option value="$PROJECT_DIR$/get_cpu_memory_v3.py" />
+        <option value="$PROJECT_DIR$/execute_script.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="62" />
+    <option name="y" value="27" />
+    <option name="width" value="1426" />
+    <option name="height" value="968" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FeedOOMTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FeedOOMTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FeedOOMTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FeedOOMTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FeedOOMTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FeedOOMTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="case1_refresh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FeedOOMTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FeedOOMTest" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCases" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/PublicUtils" />
+      <recent name="$PROJECT_DIR$/TestCases" />
+      <recent name="$PROJECT_DIR$/Data/case2_refresh" />
+      <recent name="$PROJECT_DIR$/Data/case1_refresh" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PublicUtils" />
+      <recent name="$PROJECT_DIR$/TestCases" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.execute_script">
+    <configuration name="avg_value_statistic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FeedOOMTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PublicUtils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PublicUtils/avg_value_statistic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="backup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FeedOOMTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PublicUtils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PublicUtils/backup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="execute_script" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FeedOOMTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/execute_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="max_avg_static" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FeedOOMTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/max_avg_static.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in FeedPerformanceCase.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="FeedOOMTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCases/FeedPerformanceCase.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.avg_value_statistic" />
+      <item itemvalue="Python.backup" />
+      <item itemvalue="Python.execute_script" />
+      <item itemvalue="Python.max_avg_static" />
+      <item itemvalue="Python tests.Unittests in FeedPerformanceCase.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.execute_script" />
+        <item itemvalue="Python.max_avg_static" />
+        <item itemvalue="Python tests.Unittests in FeedPerformanceCase.py" />
+        <item itemvalue="Python.backup" />
+        <item itemvalue="Python.avg_value_statistic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9f062f4-fa10-4ea6-94ce-72959a3acb28" name="Default" comment="" />
+      <created>1544000616960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544000616960</updated>
+      <workItem from="1556545837473" duration="598000" />
+      <workItem from="1556546499647" duration="942000" />
+      <workItem from="1560234606341" duration="2187000" />
+      <workItem from="1560317919353" duration="2538000" />
+      <workItem from="1560499911711" duration="633000" />
+      <workItem from="1561239058168" duration="1991000" />
+      <workItem from="1566641931271" duration="1964000" />
+      <workItem from="1569770326824" duration="917000" />
+      <workItem from="1579011951769" duration="246000" />
+      <workItem from="1589981421590" duration="15000" />
+      <workItem from="1589981563757" duration="1052000" />
+      <workItem from="1590590037822" duration="361000" />
+      <workItem from="1592492413068" duration="695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_FeedPerformanceCase_py - 2018.12.16 at 18h 59m 48s.xml">
+      <configuration name="Unittests in FeedPerformanceCase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_FeedPerformanceCase_py - 2018.12.26 at 15h 52m 09s.xml">
+      <configuration name="Unittests in FeedPerformanceCase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test02_py - 2019.03.04 at 15h 18m 20s.xml">
+      <configuration name="Unittests in test02.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test02_py - 2019.03.04 at 15h 19m 50s.xml">
+      <configuration name="Unittests in test02.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test02_py - 2019.03.04 at 15h 22m 42s.xml">
+      <configuration name="Unittests in test02.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_FeedPerformanceCase_py - 2019.03.15 at 16h 33m 42s.xml">
+      <configuration name="Unittests in FeedPerformanceCase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_FeedPerformanceCase_py - 2019.03.15 at 17h 48m 54s.xml">
+      <configuration name="Unittests in FeedPerformanceCase.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14139000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="62" y="27" width="1426" height="968" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.51756954" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.39653036" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32965517" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32965517" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.41985646" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50080776" side_tool="true" weight="0.43448275" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32956383" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25121164" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.3475862" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32965517" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32965517" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.8013793" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50080776" side_tool="true" weight="0.43448275" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32956383" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestCases/FeedPerformanceCase4.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestCases/FeedPerformanceCase.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Data/case2_refresh/031_mem_report_2018-12-13-17-12-37.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case2_refresh/time_case1.txt" />
+    <entry file="file://$PROJECT_DIR$/Data/case1_refresh/031_mem_report_2018-12-18-16-46-20.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case1_refresh/031_mem_report_2018-12-18-16-45-39.csv" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/time.pyi" />
+    <entry file="file://$PROJECT_DIR$/Data/case2_refresh/031_mem_report_2018-12-18-20-45-35.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case1_refresh/031_mem_report_2018-12-18-20-44-14.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case1_refresh/031_mem_report_2018-12-27-13-22-43.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case3_refresh/time_case2.txt" />
+    <entry file="file://$PROJECT_DIR$/Data/case1_refresh/031_mem_report_2018-12-27-13-26-29.csv" />
+    <entry file="file://$PROJECT_DIR$/die_visual.png" />
+    <entry file="file://$PROJECT_DIR$/die_visual.svg" />
+    <entry file="file://$PROJECT_DIR$/sitka_weather_07-2014.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case3_refresh/ENU_mem_report_2019-01-07-19-14-25.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case2_refresh/031_mem_report_2019-01-09-21-18-59.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case1_refresh/031_mem_report_2019-01-09-21-18-13.csv" />
+    <entry file="file://$PROJECT_DIR$/test03.py" />
+    <entry file="file://$PROJECT_DIR$/Data/case1_refresh/time_case4.txt" />
+    <entry file="file://$PROJECT_DIR$/Data/case2_refresh/031_mem_report_2019-01-10-14-18-43.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case1_refresh/031_mem_report_2019-01-10-14-54-11.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case1_refresh/031_mem_report_2019-01-10-15-01-59.csv" />
+    <entry file="file://$USER_HOME$/anaconda3/python.app/Contents/lib/python3.7/site-packages/numpy/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/highs_lows.py" />
+    <entry file="file://$PROJECT_DIR$/Data/case3_refresh/4NT_mem_report_2019-02-21-19-35-16.csv" />
+    <entry file="file://$PROJECT_DIR$/sitka_weather_2014.csv" />
+    <entry file="file://$PROJECT_DIR$/max_value_statistic.py" />
+    <entry file="file://$USER_HOME$/anaconda3/python.app/Contents/lib/python3.7/zipfile.py" />
+    <entry file="file://$PROJECT_DIR$/statisticReport.py" />
+    <entry file="file://$PROJECT_DIR$/111.py" />
+    <entry file="file://$PROJECT_DIR$/PublicUtils/avg_value_statistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PublicUtils/backup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="258" column="18" selection-start-line="258" selection-start-column="18" selection-end-line="258" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PublicUtils/public_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/case3_refresh/4NT_mem_report_2019-02-21-19-29-58.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case4_refresh/4NT_mem_report_2019-02-21-19-56-45.csv" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/-234110918/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/Data/case2_refresh/4NT_mem_report_2019-02-21-19-22-22.csv" />
+    <entry file="file://$USER_HOME$/anaconda3/python.app/Contents/lib/python3.7/site-packages/xlsxwriter/worksheet.py" />
+    <entry file="file://$USER_HOME$/anaconda3/python.app/Contents/lib/python3.7/site-packages/xlsxwriter/workbook.py" />
+    <entry file="file://$PROJECT_DIR$/test02.py" />
+    <entry file="file://$PROJECT_DIR$/PublicUtils/diff_value_statistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PublicUtils/max_value_statistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/case1_refresh/time_case1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/max_avg_static.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="e#444#848#0" />
+            <element signature="e#901#1126#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/execute_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+          <folding>
+            <element signature="e#41#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_cpu_memory_v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding>
+            <element signature="e#266#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/FeedPerformanceCase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#41#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/FeedPerformanceCase2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+          <folding>
+            <element signature="e#41#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/FeedPerformanceCase3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="e#41#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/FeedPerformanceCase4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding>
+            <element signature="e#41#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConfigInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/FeedPerformanceCase5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
